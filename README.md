@@ -1,2 +1,2 @@
 # foobar
-Verify SSH credential
+Successfully pushed to repo!
